@@ -1,0 +1,5 @@
+{
+  "name": "Telecom Customer Assistant",
+  "description": "A chatbot for telecom customers to view and manage important events like WiFi installation appointments. Users can inquire about their installation date and reschedule it by selecting from available slots, simulating a seamless backend integration for a great customer experience.",
+  "requestFramePermissions": []
+}
